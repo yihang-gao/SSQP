@@ -4,4 +4,4 @@ This folder implements the following paper (online soon, available upon request)
 
 Yihang Gao, Michael K. Ng, Michael W. Mahoney, and Sen Na.
 
-We designed a debiased, fully stochastic SQP method for solving inequality-constrained problems.
+We designed a debiased, fully stochastic SQP (SSQP) method for solving inequality-constrained problems.
