@@ -40,7 +40,7 @@ for prob_name in problems_name:
 
     hyper = setup_parameters.HyperParameters(max_n, max_m, noise_type="gaussian", noi_std_grad_hess=[noi_std, noi_std],
                                              noi_stu_t_freed=[4, 4], decay_var=0.751,
-                                             decay_relax=0.5,
+                                             decay_relax=0.501,
                                              adaptive=True,
                                              repeat=5,
                                              max_iter=int(1e5))
